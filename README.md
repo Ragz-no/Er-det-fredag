@@ -1,5 +1,5 @@
-# Er det fredag
-this is a website witch displays a gif when it is friday. It also have a live clock.
+# Is it Friday yet
+This is a website witch displays a gif when it is friday. It also have a live clock.
 
 ## Contributing
 
