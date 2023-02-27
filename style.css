@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    background: #6867AC;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 5rem;
+}
+
+#klokke {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 5rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.yesh {
+    color: #2fe70a;
+}
+
+.nesh {
+    color: #FFBCD1;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30%;
+    background: #FFBCD1;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+  
