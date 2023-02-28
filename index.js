@@ -11,6 +11,8 @@ function Fredag() {
     } else {
         answer.innerHTML = "Nei";
         answer.className = "nesh";
+        gif.src ="https://media.giphy.com/media/BEob5qwFkSJ7G/giphy.gif";
+        document.body.appendChild(gif);
     }
 }
 
@@ -21,7 +23,7 @@ function startTime() {
     let s = today.getSeconds();
     m = checkTime(m);
     s = checkTime(s);
-    document.getElementById('klokke').innerHTML = "klokken er nå " + h + ":" + m + ":" + s;
+    document.getElementById('klokke').innerHTML = "Klokken er nå " + h + ":" + m + ":" + s;
     setTimeout(startTime, 1000);
 }
 
